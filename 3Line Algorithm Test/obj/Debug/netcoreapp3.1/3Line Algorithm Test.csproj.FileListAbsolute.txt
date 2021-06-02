@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\bin\Debug\netcoreapp3.1\3Line Algorithm Test.exe
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\bin\Debug\netcoreapp3.1\3Line Algorithm Test.deps.json
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\bin\Debug\netcoreapp3.1\3Line Algorithm Test.runtimeconfig.json
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\bin\Debug\netcoreapp3.1\3Line Algorithm Test.runtimeconfig.dev.json
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\bin\Debug\netcoreapp3.1\3Line Algorithm Test.dll
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\bin\Debug\netcoreapp3.1\3Line Algorithm Test.pdb
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\obj\Debug\netcoreapp3.1\3Line Algorithm Test.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\obj\Debug\netcoreapp3.1\3Line Algorithm Test.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\obj\Debug\netcoreapp3.1\3Line Algorithm Test.AssemblyInfo.cs
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\obj\Debug\netcoreapp3.1\3Line Algorithm Test.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\obj\Debug\netcoreapp3.1\3Line Algorithm Test.dll
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\obj\Debug\netcoreapp3.1\3Line Algorithm Test.pdb
+C:\Users\hp\source\repos\3Line Algorithm Test\3Line Algorithm Test\obj\Debug\netcoreapp3.1\3Line Algorithm Test.genruntimeconfig.cache
